@@ -1,1 +1,1 @@
-# -Cloud-Optimization-Challenge
+# Cloud-Optimization-Challenge
